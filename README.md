@@ -1,1 +1,1 @@
-# Hostel-management
+This C project is for college hostels to manage the hostel for better control and timely response. Main objective is to reduce efforts of the authorities and provide better service to students. The student can easily register themselves <br> within minutes. The records can be viewed, modified and deleted by mentioning USN.
